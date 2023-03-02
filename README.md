@@ -18,7 +18,7 @@ This repo contains the course material of CS231n.
 - [Python for SAS users](https://nbviewer.org/github/RandyBetancourt/PythonForSASUsers/tree/master/)
 - [Numpy Tutorial](https://numpy.org/numpy-tutorials/features.html)
 
-## Assignment
+## Assignments
 
 [Google Colab Workflow Tutorial](https://www.youtube.com/watch?v=DsGd2e9JNH4)
 
