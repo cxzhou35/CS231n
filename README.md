@@ -10,6 +10,8 @@ This repo contains the course material of CS231n.
   - [Bilibili(2017 Spring)](https://www.bilibili.com/video/BV1nJ411z7fe/?vd_source=1ea447fa8899c06a57b9296c131b092c)
 - **Schedule**
   - http://cs231n.stanford.edu/schedule.html
+- **Github repo**
+  - https://github.com/cs231n/cs231n.github.io
 
 ## References
 
