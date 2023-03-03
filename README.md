@@ -37,7 +37,14 @@ This repo contains the course material of CS231n.
 - [Tutorial](https://cs231n.github.io/assignments2022/assignment3)
 - [Starter code]( https://cs231n.github.io/assignments/2022/assignment3_colab.zip )
 
-## Progress Update
+## Log Update
 
-2023.3.1: Learn about the course syllabus, read [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) and make some practices.
+2023.3.1
+- Learn about the course syllabus
+- Read [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) and make some practices
+
+2023.3.2
+- Finish the lecture1 and lecture2
+- Write down and organize the lecture notes
+- Complete the part1(knn) of assignment1
 
